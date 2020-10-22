@@ -1,3 +1,5 @@
+from [Fazt](https://www.youtube.com/watch?v=MvVqjQqSdM4)
+
 # Flask, Mysql & SQLAlchemy
 
 # Packages
