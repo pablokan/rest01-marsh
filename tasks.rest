@@ -1,0 +1,13 @@
+@api = http://localhost:5000
+
+### post con variable de URL, clavar tres cambiando el nombre
+POST {{api}}/tasks
+Content-Type: application/json
+
+{
+    "title": "título 2",
+    "description": "descripción 2"
+}
+
+### leer uno
+GET {{api}}/tasks/2
